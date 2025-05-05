@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mansi Sharma</h1>
 
 <p align="center">
-  Flutter & Android Developer &bull; Mobile Application Specialist &bull; Product-Focused Engineer
+  Flutter & Android Developer &bull; Mobile Application Specialist
 </p>
 
 ---
