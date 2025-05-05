@@ -18,9 +18,9 @@ I focus on performance, smooth UI/UX, clean code architecture, and long-term mai
 ### 🔧 Technical Skills
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -30,12 +30,11 @@ I focus on performance, smooth UI/UX, clean code architecture, and long-term mai
 </p>
 
 ---
-
 ### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 ---
