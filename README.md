@@ -1,38 +1,38 @@
-<h1 align="center">Hey there 👋, I'm Mansi</h1>
+<h1 align="center">Hi, I'm Mansi Sharma</h1>
 
 <p align="center">
-  💻 Flutter & Android Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Mobile App Enthusiast
-</p>
-
-<p align="center">
-  I'm a passionate mobile developer with hands-on experience building and publishing feature-rich, scalable applications.  
-  My core expertise lies in **Flutter (Dart)** and **native Android development (Kotlin & Java)**.  
-  I’ve developed a wide range of apps—from **live streaming platforms** and **e-commerce** to **hardware-integrated solutions** with **POS systems (Fiserv, PAX)** and smooth **API-driven** functionalities.
-
-  With an eye for design and performance, I enjoy translating ideas into seamless UI/UX, optimizing app workflows, and crafting code that’s clean and maintainable.  
-  I'm always looking to improve and stay updated with the latest in mobile development, while also sharpening my problem-solving through DSA practice and system-level learning.
+  Flutter & Android Developer | Mobile Application Specialist
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### About Me
+
+I am a dedicated and results-driven mobile developer with professional experience in building scalable, high-performance applications.  
+My core strengths lie in **Flutter (Dart)** and **native Android development (Kotlin and Java)**. Over time, I’ve delivered a variety of robust applications across domains including **live streaming**, **e-commerce**, **media**, and **hardware-integrated systems** (such as POS terminals with **Fiserv/PAX integration**).
+
+I focus strongly on clean architecture, seamless user experience, and optimized performance. I also have hands-on experience with **RESTful APIs**, **Firebase**, and third-party SDK integrations. Currently, I’m enhancing my problem-solving skills and exploring system design to strengthen my foundation further.
+
+---
+
+### Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,figma,git,github,vscode,javascript" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,javascript,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📈 My GitHub Activity
+### GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 📇 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mansi-sharma-a565551b8/">
