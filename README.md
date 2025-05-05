@@ -1,15 +1,36 @@
-# Hi there, I'm Mansi 👋
+<h1 align="center">Hey there 👋, I'm Mansi</h1>
 
-## 🚀 About Me
-I'm a Flutter & Android developer with experience in live-streaming, e-commerce, POS integrations, and more.
+<p align="center">
+  💻 Flutter & Android Developer • 🚀 App Enthusiast • 🔧 API & POS Integration Expert
+</p>
 
-## 🛠️ Tech Stack
-- Flutter, Dart, Java, Kotlin
-- Firebase, REST APIs
-- Git, GitHub, Figma
+---
 
-## 📈 Stats
-![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=radical)
+### 👩‍💻 About Me
 
-## 🔗 Connect with Me
-[Instagram](https://instagram.com/imemansi) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourwebsite.com)
+- 🔹 Experienced in building high-performance mobile apps — from **live streaming** to **e-commerce**
+- 🔹 Skilled in **Flutter**, **Android (Java/Kotlin)**, **Firebase**, and **REST APIs**
+- 🔹 Passionate about sleek UI/UX and clean code
+- 🔹 Currently deepening knowledge in **DSA** and **system design**
+
+---
+
+### 🧰 Tech Toolbox
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,firebase,git,github,figma" alt="tech stack" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=tokyonight" alt="github stats"/>
+</p>
+
+---
+
+### 📇 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansi%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mansi-sharma-a565551b8/)
+
+---
