@@ -35,7 +35,7 @@ I focus on performance, smooth UI/UX, clean code architecture, and long-term mai
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook" height="165" />
 </p>
 
 ---
